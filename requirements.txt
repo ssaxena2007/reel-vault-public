@@ -1,0 +1,5 @@
+instagrapi
+google-genai
+python-dotenv
+requests
+json-repair

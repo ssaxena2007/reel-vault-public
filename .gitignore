@@ -1,0 +1,7 @@
+.env
+session.json
+downloads/
+vault/
+__pycache__/
+*.pyc
+.DS_Store
